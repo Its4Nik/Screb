@@ -23,7 +23,7 @@
 # Mountable files:
 
 - ./notifer.yaml:/app/notifer.yaml 
-Base config: local port, refresh interval (scanning for nee yaml files), ...
+Base config: local port, refresh interval (scanning for new yaml files), ...
 
 - ./notifer.env:/app/notifer.env
 Store your secrets here
