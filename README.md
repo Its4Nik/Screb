@@ -14,11 +14,11 @@
 
 # ToDo:
 
-[] Write Backend
-[ ] Create Dockerfile
-[ ] Tutorials
-[ ] Contribute guide
-[ ] Better ReadMe
+- [ ] Write Backend
+- [ ] Create Dockerfile
+- [ ] Tutorials
+- [ ] Contribute guide
+- [ ] Better ReadMe
 
 # Mountable files:
 
@@ -30,4 +30,6 @@ Store your secrets here
 
 - ./custom-notifications/:/app/yamls/
 Put your different notification providers here (examples soons)
+
+- ./logs/:/app/logs/
 
