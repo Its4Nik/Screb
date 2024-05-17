@@ -14,7 +14,7 @@
 
 # ToDo:
 
-[ ] Write Backend
+[] Write Backend
 [ ] Create Dockerfile
 [ ] Tutorials
 [ ] Contribute guide
