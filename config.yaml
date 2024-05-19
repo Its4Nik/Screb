@@ -1,7 +1,7 @@
 shortlinks:
   discord: discord-alert.sh   # Custom Shortlinks!
-  smtp: discord-alert.sh
+  smtp: smtp-send-logs.sh
 
 excludeScripts:
   - smtp                      # Excludes Shortlink from being counted
-  - discord.sh                # Excludes the root file from being counted
+  - discord-alert.sh          # Excludes the root file from being counted
