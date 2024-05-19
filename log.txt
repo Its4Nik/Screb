@@ -1,0 +1,84 @@
+### Example Log file of this test Environment
+[2024-05-19T01:15:06.256Z] Server running on port 3000
+[2024-05-19T01:15:43.960Z - IP: ::1] Request URL: /
+[2024-05-19T01:15:59.415Z - IP: ::1] Request URL: /discord
+[2024-05-19T01:15:59.418Z - IP: ::1] Executing script: discord
+[2024-05-19T01:15:59.571Z - IP: ::1] Request URL: /
+[2024-05-19T01:16:28.186Z - IP: ::1] Request URL: /another-awesome-group
+[2024-05-19T01:16:28.189Z - IP: ::1] Executing scripts in directory: another-awesome-group
+[2024-05-19T01:16:28.189Z - IP: ::1] Executed group: another-awesome-group
+[2024-05-19T01:16:28.618Z - IP: ::1] Request URL: /
+[2024-05-19T01:16:43.412Z - IP: ::1] Request URL: /my-awesome-group
+[2024-05-19T01:16:43.414Z - IP: ::1] Executing scripts in directory: my-awesome-group
+[2024-05-19T01:16:43.435Z] Error executing every-executable-is-possible.py:
+[2024-05-19T01:16:43.414Z - IP: ::1] Executed group: my-awesome-group
+[2024-05-19T01:16:43.733Z - IP: ::1] Request URL: /
+[2024-05-19T01:16:46.720Z - IP: ::1] Request URL: /my-awesome-group
+[2024-05-19T01:16:46.721Z - IP: ::1] Executing scripts in directory: my-awesome-group
+[2024-05-19T01:16:46.746Z] Error executing every-executable-is-possible.py:
+[2024-05-19T01:16:46.721Z - IP: ::1] Executed group: my-awesome-group
+[2024-05-19T01:16:46.886Z - IP: ::1] Request URL: /
+[2024-05-19T01:17:02.068Z - IP: ::1] Request URL: /smtp
+[2024-05-19T01:17:02.070Z - IP: ::1] Executing script: smtp
+[2024-05-19T01:17:02.070Z - IP: ::1] Script smtp is excluded from execution.
+[2024-05-19T01:17:02.360Z - IP: ::1] Request URL: /
+[2024-05-19T01:17:10.678Z - IP: ::1] Request URL: /smtp-send-logs.sh
+[2024-05-19T01:17:10.681Z - IP: ::1] Executing script: smtp-send-logs.sh
+[2024-05-19T01:17:11.128Z - IP: ::1] Request URL: /
+[2024-05-19T01:17:20.440Z - IP: ::1] Request URL: /smtp-send-logs.sh
+[2024-05-19T01:17:20.441Z - IP: ::1] Executing script: smtp-send-logs.sh
+[2024-05-19T01:17:20.592Z - IP: ::1] Request URL: /
+[2024-05-19T01:17:23.918Z - IP: ::1] Request URL: /smtp-send-logs.sh
+[2024-05-19T01:17:23.920Z - IP: ::1] Executing script: smtp-send-logs.sh
+[2024-05-19T01:17:23.981Z - IP: ::1] Request URL: /
+[2024-05-19T01:17:29.188Z - IP: ::1] Request URL: /stats
+[2024-05-19T01:17:29.480Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:17:35.192Z - IP: ::1] Request URL: /stats
+[2024-05-19T01:17:35.500Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:17:49.631Z - IP: ::1] Request URL: /
+[2024-05-19T01:17:51.728Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:17:54.718Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:17:55.690Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:17:56.510Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:17:58.129Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:17:59.014Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:17:59.925Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:18:00.801Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:18:06.192Z - IP: ::1] Request URL: /stats
+[2024-05-19T01:18:06.473Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:23:03.532Z - IP: ::1] Request URL: /stats
+[2024-05-19T01:23:03.817Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:23:07.360Z - IP: ::1] Request URL: /
+[2024-05-19T01:26:41.279Z] Server running on port 3000
+[2024-05-19T01:26:57.207Z - IP: ::1] Request URL: /
+[2024-05-19T01:26:59.431Z - IP: ::1] Request URL: /
+[2024-05-19T01:27:43.764Z] Server running on port 3000
+[2024-05-19T01:27:50.702Z - IP: ::1] Request URL: /stats
+[2024-05-19T01:27:51.137Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:28:38.127Z - IP: ::1] Request URL: /
+[2024-05-19T01:30:04.304Z - IP: ::ffff:172.19.0.7] Request URL: /
+[2024-05-19T01:30:04.728Z - IP: ::ffff:172.19.0.7] Request URL: /
+[2024-05-19T01:30:08.635Z - IP: ::ffff:172.19.0.7] Request URL: /favicon.ico
+[2024-05-19T01:30:08.802Z - IP: ::ffff:172.19.0.7] Request URL: /
+[2024-05-19T01:30:12.104Z - IP: ::ffff:172.19.0.7] Request URL: /logs
+[2024-05-19T01:30:13.166Z - IP: ::ffff:172.19.0.7] Request URL: /
+[2024-05-19T01:30:38.668Z - IP: ::ffff:172.19.0.7] Request URL: /
+[2024-05-19T01:32:16.138Z - IP: ::ffff:172.19.0.7] Request URL: /
+[2024-05-19T01:32:16.151Z - IP: ::ffff:172.19.0.7] Request URL: /
+[2024-05-19T01:32:17.192Z - IP: ::ffff:172.19.0.7] Request URL: /
+[2024-05-19T01:32:47.851Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:32:50.629Z - IP: ::1] Request URL: /stats
+[2024-05-19T01:32:50.842Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:32:57.116Z - IP: ::1] Request URL: /stats
+[2024-05-19T01:32:57.416Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:38:39.921Z - IP: ::1] Request URL: /stats
+[2024-05-19T01:38:40.224Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:38:46.059Z - IP: ::1] Request URL: /stats
+[2024-05-19T01:38:46.402Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:38:58.170Z - IP: ::1] Request URL: /stats
+[2024-05-19T01:38:58.478Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:39:01.558Z] Server running on port 3000
+[2024-05-19T01:39:01.758Z - IP: ::1] Request URL: /stats
+[2024-05-19T01:39:02.007Z - IP: ::1] Request URL: /logs
+[2024-05-19T01:39:17.582Z - IP: ::1] Request URL: /
+[2024-05-19T02:06:20.425Z - IP: ::ffff:172.19.0.7] Request URL: /
