@@ -1,7 +1,7 @@
 # Screb
 📬 Screb is a selfhosted YAML configurable "Web Trigger for Scripts"
 
-the Name Screb comes from:  SCRipt + WEBsite
+the Name Screb comes from:  SCRipt + wEBsite
 
 # Features:
 
